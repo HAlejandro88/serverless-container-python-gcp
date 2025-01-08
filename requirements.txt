@@ -5,3 +5,5 @@ python-decouple
 rav
 httpx
 pytest
+google-auth
+google-cloud-secret-manager
